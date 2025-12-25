@@ -21,3 +21,6 @@ Random Forest (Scikit-learn)
 XGBoost (Scikit-learn)
 
 Artificial Neural Network with a Single Hidden Layer (Keras)
+
+Live demo
+https://main.d35vbh139ds45v.amplifyapp.com/
